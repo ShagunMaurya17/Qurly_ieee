@@ -1,7 +1,6 @@
 .container1 {
   margin-bottom: 10rem;
   height: 60vh;
-  display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
@@ -58,22 +57,22 @@
 
 /* Result */
 .result1 {
-  display: flex;
+  display: block;
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
 }
 .result1 p {
-  color: rgb(13, 13, 206);
-  border: 2px solid black;
-  padding: 0.20rem 8rem;
+  color: blueviolet;
+  border: 2px solid #616161;
+  padding: 0.20rem 1rem;
   margin-right: 1rem;
   align-items: center;
   font-size: large;
 }
 .result1 button {
   display: flex;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 1rem 0.5rem 1rem;
   color: #fff;
   cursor: pointer;
   background: #29B6F6;
