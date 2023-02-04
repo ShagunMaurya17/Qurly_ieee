@@ -63,10 +63,10 @@
   padding: 0.5rem 1rem;
 }
 .result1 p {
-  color: blueviolet;
-  border: 2px solid #616161;
-  padding: 0.20rem 1rem;
-  margin-right: 1rem;
+  color: rgb(13, 13, 206);
+  border: 2px solid black;
+  padding: 0.20rem 3rem;
+  margin-right: 3rem;
   align-items: center;
   font-size: large;
 }
