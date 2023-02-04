@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Qurly_ieee/static/css/main.275a4673.css",
+    "main.css": "/Qurly_ieee/static/css/main.831bc4db.css",
     "main.js": "/Qurly_ieee/static/js/main.63c9e788.js",
     "index.html": "/Qurly_ieee/index.html",
-    "main.275a4673.css.map": "/Qurly_ieee/static/css/main.275a4673.css.map",
+    "main.831bc4db.css.map": "/Qurly_ieee/static/css/main.831bc4db.css.map",
     "main.63c9e788.js.map": "/Qurly_ieee/static/js/main.63c9e788.js.map"
   },
   "entrypoints": [
-    "static/css/main.275a4673.css",
+    "static/css/main.831bc4db.css",
     "static/js/main.63c9e788.js"
   ]
 }
